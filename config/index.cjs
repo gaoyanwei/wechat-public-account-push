@@ -42,7 +42,7 @@ const USER_CONFIG = {
     poetry: false,
 
     /** 星座运势 */
-    horoscope: false,
+    horoscope: true,
 
     /** 生日消息和节日消息 */
     birthdayMessage: true,
@@ -82,7 +82,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '', year: '1994', date: '09-11',
+          type: '*生日', name: '宝贝', year: '1994', date: '09-11',
         },
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
@@ -95,7 +95,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       id: 'or12C6jFu22OTlO1pG8vDWnfhVJw',
-      useTemplateId: 'svhr2wtJw8l6eKL-eeQovL7FiVeKRCwMR0gqvQYjs6I',
+      useTemplateId: 'Bpi_GjH4hIPuUBy7avf-Zc9RM8gRFQditVfBEIP_sfM',
       province: '北京',
       city: '通州',
       horoscopeDate: '03:04',
@@ -103,7 +103,7 @@ const USER_CONFIG = {
       openUrl: 'https://gaoyanwei.github.io/',
       festivals:[         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '', year: '1995', date: '03-04',
+          type: '*生日', name: '我的', year: '1995', date: '03-04',
         },
       ],
       customizedDateList: [
