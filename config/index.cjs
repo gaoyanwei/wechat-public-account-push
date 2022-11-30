@@ -95,7 +95,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       id: 'or12C6jFu22OTlO1pG8vDWnfhVJw',
-      useTemplateId: 'Bpi_GjH4hIPuUBy7avf-Zc9RM8gRFQditVfBEIP_sfM',
+      useTemplateId: 'G4dPlin1J05Kr5l86Atvt39iL4PGuqzKyByO5TKNfyA',
       province: '北京',
       city: '通州',
       horoscopeDate: '03:04',
